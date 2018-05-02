@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-family: "Verdana"
+}
+#discover h1 {
+  font-weight: normal;
+  font-size:50px;
+}
+
+#discover, #soon h2 {
+  text-align: center;
+  color: aquamarine;
+  font-size: 16px;
+}
+#guide h1 {
+  font-weight: 300;
+  font-size: 42px;
+}
+#guide h2 {
+  text-align: center;
+  color: white;
+  font-family: "Verdana"
+}
+#guide {
+  text-align: center;
+}
+#soon h3 {
+  text-align: right;
+  color:grey;
+}
